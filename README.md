@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjan Kumar Das</h1
-<div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Anjan+kumar+Das;Anjan+Kumar+Das; &color=cyan&center=true" />
-</div>
+
                                               
 <h3 align="center">Aspiring Software Engineer | Passionate About Java and Web Development</h3>
 
