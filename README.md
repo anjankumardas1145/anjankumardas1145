@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anjan Kumar Das</h1
 
-  <h3 align="center">Aspiring Software Engineer | Passionate About Java and Web Development</h3>
+<h3 align="center">Aspiring Software Engineer | Passionate About Java and Web Development</h3>
 
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Engineer;MERN+Stack+Developer;Web+Developer;Quick+learner&color=cyan&center=true" />
