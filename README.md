@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anjan Kumar Das</h1
+<h1 align="center">Hi 👋, I'm Anjan Kumar Das</h1>
 
 <h3 align="center">Aspiring Software Engineer | Passionate About Java and Web Development</h3>
 
