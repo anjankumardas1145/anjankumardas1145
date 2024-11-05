@@ -1,6 +1,6 @@
 <div align="center">
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi+👋,+Anjan+Kumar+Das&color=cyan&center=true" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi+👋,+I'm +Anjan+Kumar+Das&color=cyan&center=true" />
   </h3>
 </div>
 
