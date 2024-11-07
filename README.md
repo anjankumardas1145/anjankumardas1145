@@ -3,11 +3,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi+👋,+I'm+Anjan+Kumar+Das&color=cyan&center=true" />
   </h3>
 </div>
-<h3 align="center">Aspiring Software Engineer | Passionate About Java and Web Development</h3>
+<h3 align="center">Aspiring Software Engineer | Passionate About Java and Web Development</h3
+>
+
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Engineer&color=cyan&center=true" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjankumardas1145&label=Profile%20views&color=0e75b6&style=flat" alt="anjankumardas1145" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjankumardas1145" alt="anjankumardas1145" /></a> </p>
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
@@ -35,3 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjankumardas1145&show_icons=true&locale=en" alt="anjankumardas1145" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjankumardas1145&" alt="anjankumardas1145" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjankumardas1145" alt="anjankumardas1145" /></a> </p>
+
