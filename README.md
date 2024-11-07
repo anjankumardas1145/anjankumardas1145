@@ -10,7 +10,6 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Engineer&color=cyan&center=true" />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjankumardas1145&label=Profile%20views&color=0e75b6&style=flat" alt="anjankumardas1145" /> </p>
 
 
 - 🔭 I’m currently working on **Full Stack Web Development**
