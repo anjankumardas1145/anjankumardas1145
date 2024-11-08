@@ -21,6 +21,8 @@
 - 💬 Ask me about **HTML,CSS,JavaScript,Java,MySql**
 
 - 📫 How to reach me **anjankumardas527@gmail.com**
+- - 📄 Check out my <b><a href="https://drive.google.com/file/d/1hlJrKQIumjXx_okygcgug6PzIMM-LBFv/view?usp=sharing">Resume</a>
+</b>
 
 - ⚡ Fun fact **There is no fun fact about me🙂**
 
