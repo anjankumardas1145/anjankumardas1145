@@ -37,6 +37,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjankumardas1145&show_icons=true&locale=en&layout=compact" alt="anjankumardas1145" /></p>
 
+<a href="https://github.com/anjankumardas1145/github-readme-stats">
+ <img align="left" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=anjankumardas1145&&theme=highcontrast" alt="anjankumardas1145" />
+ </a>
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjankumardas1145&show_icons=true&locale=en" alt="anjankumardas1145" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjankumardas1145&" alt="anjankumardas1145" /></p>
