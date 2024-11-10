@@ -1,6 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Animated Header">
 
 
+
 <div align="center">
   <h3>
     <img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi+👋,+I'm+Anjan+Kumar+Das&color=cyan&center=true" />
@@ -21,11 +22,11 @@
 
 - 📝 I regularly write articles on [https://anjancode.blogspot.com/](https://anjancode.blogspot.com/)
 
+
 - 💬 Ask me about **HTML,CSS,JavaScript,Java,MySql**
 
 - 📫 How to reach me **anjankumardas527@gmail.com**
 - - 📄 Check out my <b><a href="https://drive.google.com/file/d/1hlJrKQIumjXx_okygcgug6PzIMM-LBFv/view?usp=sharing">Resume</a>
-</b>
 
 - ⚡ Fun fact **There is no fun fact about me🙂**
 
