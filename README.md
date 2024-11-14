@@ -20,9 +20,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📝 I regularly write articles on [https://anjancode.blogspot.com/](https://anjancode.blogspot.com/)
-
-
 - 💬 Ask me about **HTML,CSS,JavaScript,Java,MySql**
 
 - 📫 How to reach me **anjankumardas527@gmail.com**
