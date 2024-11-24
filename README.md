@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi+👋,+I'm+Anjan+Kumar+Das&color=cyan&center=true" />
   </h3>
 </div>
-<h3 align="center">Aspiring Software Enginee | Passionate About Java and Web Development</h3
+<h3 align="center">Aspiring Software Engineer | Passionate About Java and Web Development</h3
 >
 
 <div align="center">
