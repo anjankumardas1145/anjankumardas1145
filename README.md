@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Animated Header">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Animated Header">
 
 
 
@@ -30,6 +30,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/anjanku81624897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anjanku81624897" height="30" width="40" /></a> -->
+
+<!-- 
 <a href="https://linkedin.com/in/anjan-kumar-das-2065a6239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjan-kumar-das-2065a6239" height="30" width="40" /></a>
 </p>
 
@@ -45,5 +47,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjankumardas1145&show_icons=true&locale=en" alt="anjankumardas1145" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjankumardas1145&" alt="anjankumardas1145" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjankumardas1145&" alt="anjankumardas1145" /></p>  -->
 
